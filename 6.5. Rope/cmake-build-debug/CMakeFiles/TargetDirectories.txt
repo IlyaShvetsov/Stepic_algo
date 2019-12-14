@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/stepic_algo/6.5. Rope/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/stepic_algo/6.5. Rope/cmake-build-debug/CMakeFiles/6_5__Rope.dir
+/home/ilya/CLionProjects/stepic_algo/6.5. Rope/cmake-build-debug/CMakeFiles/edit_cache.dir

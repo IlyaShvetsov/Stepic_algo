@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/stepic_algo/6.3. Is_BinSearchTree_correct_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/stepic_algo/6.3. Is_BinSearchTree_correct_2/cmake-build-debug/CMakeFiles/6_3__Is_BinSearchTree_correct_2.dir
+/home/ilya/CLionProjects/stepic_algo/6.3. Is_BinSearchTree_correct_2/cmake-build-debug/CMakeFiles/edit_cache.dir

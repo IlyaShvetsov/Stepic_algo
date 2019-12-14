@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/stepic_algo/3.1. Min_heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/stepic_algo/3.1. Min_heap/cmake-build-debug/CMakeFiles/3_1__Min_heap.dir
+/home/ilya/CLionProjects/stepic_algo/3.1. Min_heap/cmake-build-debug/CMakeFiles/edit_cache.dir

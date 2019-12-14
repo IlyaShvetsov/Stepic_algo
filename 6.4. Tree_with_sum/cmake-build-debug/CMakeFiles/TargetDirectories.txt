@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/stepic_algo/6.4. Tree_with_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/stepic_algo/6.4. Tree_with_sum/cmake-build-debug/CMakeFiles/6_4__Tree_with_sum.dir
+/home/ilya/CLionProjects/stepic_algo/6.4. Tree_with_sum/cmake-build-debug/CMakeFiles/edit_cache.dir

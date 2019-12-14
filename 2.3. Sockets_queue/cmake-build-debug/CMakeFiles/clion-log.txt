@@ -1,0 +1,4 @@
+/snap/clion/92/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ilya/CLionProjects/stepic_algo/sockets_queue
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ilya/CLionProjects/stepic_algo/sockets_queue/cmake-build-debug

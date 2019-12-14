@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/5_2__Simple_hash_table.dir/main.cpp.o  -o 5_2__Simple_hash_table 

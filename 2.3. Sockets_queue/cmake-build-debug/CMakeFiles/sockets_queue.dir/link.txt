@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sockets_queue.dir/main.cpp.o  -o sockets_queue 

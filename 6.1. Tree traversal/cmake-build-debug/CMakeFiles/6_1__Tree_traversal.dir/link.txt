@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_1__Tree_traversal.dir/main.cpp.o  -o 6_1__Tree_traversal 

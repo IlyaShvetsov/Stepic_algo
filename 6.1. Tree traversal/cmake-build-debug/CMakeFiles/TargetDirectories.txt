@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/stepic_algo/6.1. Tree traversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/stepic_algo/6.1. Tree traversal/cmake-build-debug/CMakeFiles/6_1__Tree_traversal.dir
+/home/ilya/CLionProjects/stepic_algo/6.1. Tree traversal/cmake-build-debug/CMakeFiles/edit_cache.dir

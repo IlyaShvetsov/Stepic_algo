@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/stepic_algo/3.2. Parallel_processing /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/stepic_algo/3.2. Parallel_processing /cmake-build-debug/CMakeFiles/3_2__Parallel_processing_.dir
+/home/ilya/CLionProjects/stepic_algo/3.2. Parallel_processing /cmake-build-debug/CMakeFiles/edit_cache.dir

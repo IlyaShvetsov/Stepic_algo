@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_2__Is_BinSearchTree_correct.dir/main.cpp.o  -o 6_2__Is_BinSearchTree_correct 
